@@ -19,8 +19,8 @@ layout: null
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
 
   /* common CSS variables */
-  --body-font: 'Lora', 'Times New Roman', serif;
-  --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --body-font: 'Monsterra', 'Roboto', serif;
+  --header-font: 'Futura', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mid-col: #808080;
 }
 
@@ -93,7 +93,7 @@ hr.small {
   max-width: 6.25rem;
   margin: 1rem auto;
   border-width: 0.25rem;
-  border-color: var(--nabar-col);
+  border-color: var(--navbar-col);
   border-radius: 0.1875rem;
 }
 
