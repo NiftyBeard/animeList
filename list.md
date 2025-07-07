@@ -5,30 +5,30 @@ subtitle: This is the list
 ---
 
 ### Completed
-<li>Naruto
-Bleach
-Attack on Titan</li>
+<li>Naruto</li>
+<li>Bleach</li>
+<li>Attack on Titan</li>
 
 ### Watching/Airing
-<li>Demon Slayer
-DanDaDan
-Solo Leveling
-My Hero Academia
-Re: Zero
-Blue Lock
-To be hero X
-Chainsaw Man
-Fire Force
-Kaiju No. 8
-Link Click
-The Rising of the Shield Hero
-Jujutsu Kaisen
-Overlord
-Tokyo Ghoul
-Mashle
-Mushoku Tensei: Jobless Reincarnation
-Spy x Family
-Hunter x Hunter
-Ranking of Kings
-Mob Psycho 100
-To your eternity</li>
+<li>Demon Slayer</li>
+<li>DanDaDan</li>
+<li>Solo Leveling</li>
+<li>My Hero Academia</li>
+<li>Re: Zero</li>
+<li>Blue Lock</li>
+<li>To be hero X</li>
+<li>Chainsaw Man</li>
+<li>Fire Force</li>
+<li>Kaiju No. 8</li>
+<li>Link Click</li>
+<li>The Rising of the Shield Hero</li>
+<li>Jujutsu Kaisen</li>
+<li>Overlord</li>
+<li>Tokyo Ghoul</li>
+<li>Mashle</li>
+<li>Mushoku Tensei: Jobless Reincarnation</li>
+<li>Spy x Family</li>
+<li>Hunter x Hunter</li>
+<li>Ranking of Kings</li>
+<li>Mob Psycho 100</li>
+<li>To your eternity</li>
