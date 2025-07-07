@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: This is a Blogsite for tracking my Anime List, what I think about them and share my mind.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Nifty, these posts are probably lame but I want to write:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- About Animes
+- About characters and their traits
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Small time programmer, big time nerd.
