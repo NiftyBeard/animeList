@@ -484,7 +484,7 @@ footer .footer-custom-content {
 
 .post-preview {
   padding: 1.25rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid var(--navbar-col);
   overflow: hidden;
 }
 
@@ -521,7 +521,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: var(--mid-col);
+  color: var(--navbar-col);
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
