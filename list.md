@@ -8,6 +8,7 @@ subtitle: This is the list
 <li>Naruto
 Bleach
 Attack on Titan</li>
+
 ### Watching/Airing
 <li>Demon Slayer
 DanDaDan
