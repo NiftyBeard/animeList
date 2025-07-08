@@ -6,8 +6,8 @@ subtitle: This is the list
 
 ### Completed
 <li><a href="https://niftybeard.github.io/animeList/2025-06-06-Naruto">Naruto だってばよ</a></li>
-<li>Bleach</li>
-<li>Attack on Titan</li>
+<li>Bleach 卍解</li>
+<li>Attack on Titan 進撃の巨人</li>
 
 ### Watching/Airing
 <li>Demon Slayer</li>
