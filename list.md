@@ -5,7 +5,7 @@ subtitle: This is the list
 ---
 
 ### Completed
-<li>Naruto</li>
+<li><a href="https://niftybeard.github.io/animeList/2025-06-06-Naruto">Naruto</a></li>
 <li>Bleach</li>
 <li>Attack on Titan</li>
 
