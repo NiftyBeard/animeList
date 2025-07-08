@@ -5,7 +5,7 @@ subtitle: This is the list
 ---
 
 ### Completed
-<li><a href="https://niftybeard.github.io/animeList/2025-06-06-Naruto">Naruto</a></li>
+<li><a href="https://niftybeard.github.io/animeList/2025-06-06-Naruto">Naruto だってばよ</a></li>
 <li>Bleach</li>
 <li>Attack on Titan</li>
 
@@ -32,3 +32,4 @@ subtitle: This is the list
 <li>Ranking of Kings</li>
 <li>Mob Psycho 100</li>
 <li>To your eternity</li>
+<li>Uglymug, Epicfighter</li>
